@@ -1,1 +1,3 @@
-web_static for alx 2023
+web_static part of the airbnb clone project
+IDE: VSCODE
+Languages: HTML, CSS
